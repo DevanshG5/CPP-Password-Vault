@@ -1,0 +1,5 @@
+Download the main.exe file to run the program. It will run in the command prompt and automatically create a text file named "Passwords.txt" in the same folder where the executable file is saved. This is where the data will be stored in plain text.
+
+After completion of each command on the main menu, the program will terminate and ask you if you wish to restart it to execute more commands. Press "y" to restart and "n" to exit.
+
+The program will close on pressing "n" after termination prompt or the exit command on the main menu.
