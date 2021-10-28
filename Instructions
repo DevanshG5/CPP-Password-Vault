@@ -1,3 +1,9 @@
 Download the main.exe file to run the program. It will run in the command prompt and automatically create two text files named "passwords.txt" and "temp.txt" in the same folder where the executable file is saved. This files are necessary to encrypt, and then store the encrypted data.
 
+Passwords for multiple accounts on the same domain can be saved but one account on a particular domain can only contain one password.
+For example: The domain "Netflix" can have multiple users like "User1" and "User2" but each user can have one password only. Adding multiple passwords to the same user on the same domain will update the existing password to the last password entered.
+
+No input should contain spaces.
+For example: "User 1" should be entered as "User1" or "User_1".
+
 The program will close on pressing the exit command on the main menu.
